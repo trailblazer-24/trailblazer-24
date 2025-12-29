@@ -31,24 +31,35 @@ I believe strong backend systems are built through clarity, consistency, and con
 
 ## 💻 Tech Stack
 
-### Backend
-Java • Spring Boot • Hibernate • REST APIs • PostgreSQL
+### 🧩 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Languages
-Java • Python • JavaScript • C++
+### 🧪 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Tools & Platforms
-Git • Docker • Postman • Bash • Firebase • Vercel
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trailblazer-24&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=trailblazer-24&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trailblazer-24&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=trailblazer-24&theme=dark&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&layout=compact&theme=dark&hide_border=true" />
 
 ---
 
