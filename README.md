@@ -1,18 +1,57 @@
-# 💫 About Me:
-Hi, I’m Biswajit Rath, a backend-focused Java developer with experience working in fast-paced startup environments. I primarily build backend systems using Java and Spring Boot, with an emphasis on clean architecture, maintainable code, and practical problem-solving.<br><br>I enjoy designing RESTful APIs, handling business logic, and working with databases while paying close attention to performance and reliability. Alongside Java, I use Python when needed for automation and scripting tasks.<br><br>Currently, I’m focused on:<br><br>- Deepening my knowledge of Spring Boot and backend design<br>- Strengthening Data Structures & Algorithms<br>- Writing scalable, production-ready backend code<br><br>I believe strong backend systems are built through clarity, consistency, and continuous learning.
+# 👋 Hi, I’m Biswajit Rath
 
+Java backend developer focused on building reliable, maintainable systems using **Spring Boot** and clean backend design principles.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajitrath) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.biswajitrath@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=trailblazer-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=trailblazer-24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💫 About Me
+
+I’m a **Java developer** with experience working in fast-paced startup environments, where ownership, clarity, and practical problem-solving matter more than buzzwords.
+
+My primary focus is on building backend systems using **Java and Spring Boot**, designing RESTful APIs, handling business logic, and working with databases while keeping performance and reliability in mind. I value clean architecture, readable code, and solutions that scale in the real world.
+
+Alongside Java, I use **Python** when needed for automation and scripting tasks.
+
+Currently, I’m focused on:
+- Deepening my understanding of **Spring Boot & backend architecture**
+- Strengthening **Data Structures & Algorithms**
+- Writing **production-ready, scalable backend code**
+
+I believe strong backend systems are built through clarity, consistency, and continuous learning.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajitrath)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://www.biswajitrath.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.biswajitrath@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+Java • Spring Boot • Hibernate • REST APIs • PostgreSQL
+
+### Languages
+Java • Python • JavaScript • C++
+
+### Tools & Platforms
+Git • Docker • Postman • Bash • Firebase • Vercel
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trailblazer-24&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trailblazer-24&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
