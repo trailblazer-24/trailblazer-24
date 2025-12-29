@@ -55,11 +55,11 @@ I believe strong backend systems are built through clarity, consistency, and con
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=trailblazer-24&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=trailblazer-24&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=trailblazer-24&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trailblazer-24&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&layout=compact&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trailblazer-24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 ---
 
